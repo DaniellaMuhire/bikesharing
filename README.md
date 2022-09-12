@@ -28,7 +28,7 @@ In this visualization, we have a heatmap that shows the number of bike trips bro
 <img width="1440" alt="User Trips by Gender" src="https://user-images.githubusercontent.com/77806210/189730366-b580be54-0276-4504-b907-c2c90c3e7589.png">
 
 ## Summary
-The results found show us that most subscribers are male and that could explain the fact that they are mostly the ones riding bikes more often and for longer period of times compare to female.
+The results show that most of the subscribers are men, which could explain the fact that they cycle more often and for longer periods than women.
 <img width="1440" alt="NYC Citi Bike Story" src="https://user-images.githubusercontent.com/77806210/189731827-8a0f3f87-df69-4602-a023-8e4e2a1f88eb.png">
 
 For future analysis, we can include weather data and create a visualization of the weather data and number of rides. We could also include other months of the year to see which months is more likely to have more riders. 
