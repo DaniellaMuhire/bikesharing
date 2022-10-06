@@ -5,6 +5,9 @@
 In this module, we use tableau to visualize bike-sharing data in New York City. More precisely, we want to know how the bike business actually works in New York City for the month of August.
 
 ## Results
+Link to Tableau Story and Dashboard:
+[
+](https://public.tableau.com/app/profile/daniella.diane.muhire/viz/Book1_16650370345990/NYCCitibikeStory)
 
 In this image, we can see that we have a total of 2,344,224 trips recorded during the month of August.
 <img width="1440" alt="Number of Trips" src="https://user-images.githubusercontent.com/77806210/189723729-c8c51b2a-b0d4-465a-866a-dd801f3a7897.png">
