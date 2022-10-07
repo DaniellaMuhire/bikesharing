@@ -6,7 +6,7 @@ In this module, we use tableau to visualize bike-sharing data in New York City. 
 
 ## Results
 Link to Tableau Story and Dashboard:
-https://public.tableau.com/app/profile/daniella.diane.muhire/viz/Book1_16650370345990/NYCCitibikeStory
+https://public.tableau.com/app/profile/daniella.diane.muhire/viz/Book2_16651050442210/NYCCitibikeStory
 
 In this image, we can see that we have a total of 2,344,224 trips recorded during the month of August.
 <img width="1440" alt="Number of Trips" src="https://user-images.githubusercontent.com/77806210/189723729-c8c51b2a-b0d4-465a-866a-dd801f3a7897.png">
@@ -14,7 +14,7 @@ In this image, we can see that we have a total of 2,344,224 trips recorded durin
 In this visualization, we have the number of rides by gender. We can see that MALE tends to ride bicycles more often compare to FEMALE.
 <img width="1440" alt="Gender Breakdown" src="https://user-images.githubusercontent.com/77806210/189724200-fadc9e16-1633-4598-8ba5-9baac2f28400.png">
 
-In this visualization, we graph the length of time that bikes are checked out for all riders. As we can see, bikes are mosty checkout for 4 to hours.
+In this visualization, we graph the length of time that bikes are checked out for all riders. As we can see, bikes are mosty checkout for 4 to 6 hours.
 <img width="1440" alt="Checkout Times for Users" src="https://user-images.githubusercontent.com/77806210/189724851-fbb01aa9-13fa-433e-b1eb-c6b104f2f92a.png">  <img width="1440" alt="Chechout Times for Users-2" src="https://user-images.githubusercontent.com/77806210/189724887-b00e6479-7367-4def-b8ea-77dedb058d59.png">
 
 In this visualization, we graph the length of time that bikes are checked out for each gender. We can see that male take more times than female.
